@@ -1,4 +1,4 @@
-# Conversor De Medidas
+# Conversor De Moedas
 
 Realiza conversões de Real x Dolar Americano, Canadense e Euro.
 
